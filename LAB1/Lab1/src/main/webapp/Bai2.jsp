@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<img src="Logo.png"/>
+<hr/>
+<a href="bai1"> Bài 1</a> || <a href="bai2"> Bài 2</a>|| <a href="bai3"> Bài 3</a> || <a href="bai4"> Bài 4</a> || <a href="Crud/create"> Create</a>
+|| <a href="Crud/update"> Update</a> || <a href="Crud/delete"> Delete</a> || <a href="Crud/edit"> Edit</a>
+<hr/>
+<h1>Đây là bài 2 - Lab 1</h1>
+</body>
+</html>
